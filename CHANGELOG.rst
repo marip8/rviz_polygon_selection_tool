@@ -2,6 +2,11 @@
 Changelog for package rviz_polygon_selection_tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Changed tool and service interface to support the selection of multiple polygons
+* Contributors: BryanMqz, Michael Ripperger
+
 0.1.1 (2024-05-24)
 ------------------
 * Merge pull request `#4 <https://github.com/marip8/rviz_polygon_selection_tool/issues/4>`_ from marip8/update/deps
