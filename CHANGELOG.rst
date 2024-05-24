@@ -2,8 +2,8 @@
 Changelog for package rviz_polygon_selection_tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-05-24)
+------------------
 * Changed tool and service interface to support the selection of multiple polygons
 * Contributors: BryanMqz, Michael Ripperger
 
